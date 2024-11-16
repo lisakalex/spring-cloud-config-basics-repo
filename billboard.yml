@@ -5,5 +5,5 @@
 # override any settings in the application.yml on the 
 # config server in this file. 
 server:
-  port: 8082
+  port: 8083
 message: "Electronic Billboards Are Awesome! Sometimes kyky 3"
