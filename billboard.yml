@@ -6,4 +6,4 @@
 # config server in this file. 
 server:
   port: 8083
-message: "Electronic Billboards Are Awesome! Sometimes kyky 3"
+message: "Electronic Billboards Are Awesome! Sometimes kyky 4"
